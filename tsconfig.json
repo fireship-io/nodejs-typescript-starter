@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
       "module": "NodeNext",
-      "moduleResolution": "Node",
+      "moduleResolution": "NodeNext",
       "target": "ES2020",
       "sourceMap": true,
       "outDir": "dist",
